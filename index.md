@@ -114,7 +114,7 @@ You are allowed to use the default code auto-completion within the Google colab 
 
 ### Late day policy
 
-To accommodate unforeseen challenges that may arise during the quarter, you have three late days for the problem sets.  Each late day allows you to turn in an assignment up to 24 hours late.  (Any fraction of a late day counts as one late day.)  You may use multiple late days on the same problem set. Work submitted beyond the allowed late days will not receive credit.
+To accommodate unforeseen challenges that may arise during the quarter, you have a total of 72 total late hours for the problem sets. You can use as much of this late time as you want for each problem set. In the end we will just add your total late time and as long as it is below 72 hours, all your homework will be counted towards your grade. Otherwise, we will not include credits from homework that was submitted past the 72 hour late day mark.
 
 Please note that we have provided the late day policy to help provide flexibility to you in managing your course load during the quarter.  If circumstances arise that require further accommodations, we encourage you to contact your academic advisor as well as the Office of Accessible Education (see below) to help make appropriate arrangements.  Out of fairness to all students, in the absence of an OAE Academic Accommodation Letter, we will generally be unable to provide accommodations beyond the late day policy above.
 
