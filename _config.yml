@@ -1,0 +1,213 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site title and description
+title:              MS&E 233. Game Theory, Data Science and AI
+description:        Website for Stanford course on Game Theory, Data Science and AI
+
+# Site subpath, e.g. /blog
+baseurl:            "/spring26"
+
+# Permalink URLs structure, for permalink style options see: https://jekyllrb.com/docs/permalinks/
+permalink:          /:title/
+
+# Site base hostname & protocol, e.g. http://example.com
+url :               "https://stanford-msande233.github.io"
+
+# Site logo, image or text
+brand:
+    image:          # logo.svg  # e.g. logo.png, upload logo image file to /assets/img/ folder
+    text:           MS&E 233. Game Theory, Data Science and AI      # if the above "logo:" image variable  is not set, this text logo is displayed instead
+
+# Default author settings
+author:
+    name:       Vasilis Syrgkanis
+    github:     vsyrgkanis   # Github username for avatar
+
+
+github_info:
+    username:          stanford-msande233                # Github location of the course
+    branch:            master               # branch where github page is hosted - see settings
+    website-repo:      spring26      # name of this current repo, contains course site files
+    course-repo:       spring26      # location of course content files like data, textbook, labs, etc.
+
+index:
+    title: Game Theory, Data Science and AI 
+    image: 
+    subtitle: A course that will explore foundations and applied topics at the intersection of game theory, data science and artificial intelligence. The first part of the course will focus on computational approaches to solving complex games, with applications in developing successful algorithmic agents and explore recent successes in the games such as Go and Poker. The lectures will provide the foundations of the methods that underlie these computational game theory methods (rooted in the theory of learning in games) and the assignments will explore implementation of simple variants. The second part of the course will explore the interplay between data science and mechanism design. We will overview topics such as optimizing auctions and mechanisms from data and explore applications in optimizing online auction markets. We will also overview methodologies for learning structural parameters in games and econometrics in games and how these can be used to analyze data that stem from strategic interactions, such as auction data. The third part of the course will explore topics that relate to deploying machine learning and data science pipelines in the presence of strategic behavior. Topics will include A/B testing in markets, with applications to A/B testing on digital platforms such as Uber, Amazon and other matching platforms.
+    
+
+
+header:
+- title: Syllabus
+  url: 
+  
+- title: Course Schedule
+  url: schedule/
+
+
+footer:
+- title: Home
+  url: 
+
+- title: Course Schedule
+  url: schedule/
+
+
+info: 
+ program_title: Management Science and Engineering, Stanford
+ program_website: 
+ course_title: MS&E 233. Game Theory, Data Science and AI
+ course_number: 
+ course_level: Graduate
+ course_website: 
+ course_start_end_dates: Mar 31st - Jun 2nd, 2026
+ course_prerequisites: None
+ class_meets_when: Tue-Thu 3.00-4.20
+ class_meets_where: Shriram 104 
+
+instructor:
+-  name: Vasilis Syrgkanis
+   title: Assistant Professor, MS&E
+   email: vsyrgk@stanford.edu
+   website_url: https://vsyrgkanis.com/
+   office_hours_times: Thursday 4:30pm - 5:30pm
+   office_hours_location: Huang 252
+   office_hours_app_url:  
+   github_url: 
+   twitter_url: 
+   scholar_url: 
+   linked_in_url:
+-  name: Keertana Chidambaram
+   title: CA, MS&E PhD student
+   email: vck@stanford.edu
+   website_url: 
+   office_hours_times: TBA
+   office_hours_location: TBA
+   office_hours_app_url:  
+   github_url: 
+   twitter_url: 
+   scholar_url: 
+   linked_in_url:
+-  name: Ayush Sawarni
+   title: CA, MS&E PhD student
+   email: ayushsaw@stanford.edu
+   website_url: 
+   office_hours_times: TBA
+   office_hours_location: TBA
+   office_hours_app_url:  
+   github_url: 
+   twitter_url: 
+   scholar_url: 
+   linked_in_url:
+
+
+
+textbooks:
+- title: Lecture Notes on Algorithmic Game Theory
+  authors: Tim Roughgarden
+  edition: Free Online
+  link: https://timroughgarden.org/f13/f13.pdf
+  required (y/n): n
+- title: AI, Games and Markets
+  authors: Christian Kroer
+  edition: Free Online
+  link: https://www.columbia.edu/~ck2945/files/main_ai_games_markets.pdf
+  required (y/n): n
+- title: Algorithmic Game Theory
+  authors: Noam Nisan, Tim Roughgarden, Eva Tardos, Vijay Vazirani
+  edition: Free Online
+  link: https://www.cs.cmu.edu/~sandholm/cs15-892F13/algorithmic-game-theory.pdf
+  required (y/n): n
+- title: Online Learning and Online Convex Optimization
+  authors: Shai Shalev-Shwartz
+  edition: Free Online
+  link: https://www.cs.huji.ac.il/~shais/papers/OLsurvey.pdf
+  required (y/n): n
+
+
+
+
+# Author settings, displayed on post and doc pages if front matter references author name e.g. author: peter
+authors:
+    jesse:
+        name:       Vasilis Syrgkanis
+        github:     vsyrgkanis    # Github username for avatar
+
+# Social icons displayed in footer
+social:
+    email:
+    website:
+    facebook:       
+    flickr:
+    dribbble:
+    github:
+    googleplus:
+    instagram:      
+    linkedin:       
+    pinterest:
+    twitter:        
+    vimeo:          
+    youtube:        
+
+# Twitter share button
+twitter_username:
+
+# Default footer image settings
+footer:
+    copyright:
+
+# Disqus comments shortname, requires Disqus account https://disqus.com/
+disqus:
+    shortname:
+
+# Google analytics code, get your code here https://www.google.com/analytics/
+google_analytics:   G-L8SNR4LLEB
+
+# Google maps API key, get your key here: https://developers.google.com/maps/documentation/javascript/get-api-key
+google_maps_api_key:
+
+# Number of posts displayed on blog page
+paginate: 10
+
+# Blog path
+paginate_path:      "layouts/datasets/:num/"
+
+# Path to post content assets directory i.e post images, pdfs etc
+post_assets:        /assets/posts/
+
+post_css: /assets/css/posts
+
+# Build settings
+markdown:           kramdown
+highlighter:        rouge
+
+gems:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-gist
+  - jekyll-avatar
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+
+sass:
+  style:            compressed
+
+collections:
+  docs:
+    output: true
+
+
+markdown: kramdown
+kramdown:
+  parse_block_html: true
+
+
+
+course_url: "https://stanford-msande233.github.io/spring26"
+
