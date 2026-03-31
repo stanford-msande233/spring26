@@ -110,7 +110,7 @@ As noted above, you are welcome to work in pairs on any computational component 
 
 ### Generative AI
 
-You are allowed to use the default code auto-completion within the Google colab environment. You are not allowed to use other GenAI tools when preparing the homework.
+You are allowed to use the Gemini assistant that is available within the Google colab environment when solving your homework. You are not allowed to use other GenAI tools when preparing the homework.
 
 ### Late day policy
 
