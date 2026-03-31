@@ -89,14 +89,14 @@ The course will consist of lectures and homework assignments. Lectures will be h
 
 ## Course webpages
 
-* Discussion: [Ed Discussion](https://edstem.org/us/courses/57750/discussion/4656262)
-* Submissions: [Gradescope](https://www.gradescope.com/courses/760253)
+* Discussion: [Ed Discussion](https://edstem.org/us/courses/97604/discussion)
+* Submissions: [Gradescope](https://www.gradescope.com/courses/1290477)
 
 # Course Operations and Expectations
 
 ### Problem sets
 
-There will be a total of 7 or 8 problem sets. Problem sets must be submitted online through Gradescope [gradescope](https://www.gradescope.com/courses/486969/). 
+There will be a total of 8 problem sets. Problem sets must be submitted online through Gradescope [gradescope](https://www.gradescope.com/courses/1290477/). 
 
 Depending on their length, the total number of points in each set might vary. Typically, the assignments will divided into sub-questions with an explicit set of points assigned to each question. You will receive the credits corresponding to each sub-question only if you get the sub-question correct.
 
