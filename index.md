@@ -30,7 +30,7 @@ instructor:
    title: CA, MS&E PhD student
    email: vck@stanford.edu
    website_url: 
-   office_hours_times: TBA
+   office_hours_times: Tuesday 3:30pm - 5:30pm
    office_hours_location: TBA
    office_hours_app_url:  
    github_url: 
