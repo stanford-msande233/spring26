@@ -42,7 +42,7 @@ instructor:
    email: ayushsaw@stanford.edu
    website_url: 
    office_hours_times: Monday 4:30pm - 5:30pm
-   office_hours_location: TBA
+   office_hours_location: Huang B007
    office_hours_app_url:
    github_url: 
    twitter_url: 
