@@ -31,7 +31,7 @@ instructor:
    email: vck@stanford.edu
    website_url: 
    office_hours_times: Wednesday 4:00pm - 5:00pm
-   office_hours_location: TBA
+   office_hours_location: B020
    office_hours_app_url:  
    github_url: 
    twitter_url: 
